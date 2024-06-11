@@ -1,0 +1,26 @@
+[general]
+name=Catastro
+qgisMinimumVersion=3.0
+description=Plugin para buscar filtrar y trazar poligonos con rapidez.
+version=1.0.0
+author=Fernando Bojorquez
+email=
+about=Este plugin permite filtrar capas, quitar filtros, configurar atributos y trazar polígonos en QGIS.
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+
+[author]
+name=Fernando Bojorquez
+email=
+institution=Catastro
+ 
+[tracker]
+url=https://github.com/tuusuario/catastro/issues
+
+[repository]
+url=https://github.com/tuusuario/catastro
+
+[tags]
+filtrar, capas, polígono, trazado
